@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+#parrafoprueba{
+    color: blue;
+   
+    font-family: 'Roboto', sans-serif;
+}
+.centerimage{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.centerparrafo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centertitle{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-image: url(https://ae01.alicdn.com/kf/HTB1oj3WQFXXXXc5aXXXq6xXFXXXN/HUAYI-5x7ft-Horizontal-playa-paisaje-tel-n-de-fondo-arte-tela-fotograf-a-Prop-reci-n.jpg);
+}
+.flex div{
+   
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+}
+.flex{
+    
+ 
+    display: flex;
+    /*flex-direction: column; /*direccion*/
+    flex-wrap: wrap;/*grilla */
+    
+    align-items: center;
+}
+.formsprueba{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
